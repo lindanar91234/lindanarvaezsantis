@@ -1,0 +1,54 @@
+<html>
+
+<head>
+<title>DESASTRES NATURALES</title>
+</head>
+
+<body>
+<body background="fondodepantallasi.png">
+
+<font face="Bell MT" size=5 color=black>
+
+<ol>
+<li><a id=inicio><a href=#subtema1>TERREMOTOS</a></li>
+<li><a href=#subtema2>TSUNAMIS</a></li>
+</ol>
+</font>
+<p align="center"><img src="tsunamisyterremotos.jpg" width="550" height="300">
+</p>
+
+<hr size="10"></hr>
+
+<a name="pagina2.html">
+<font size=4 color=black face="Bell MT">
+<ol type="1">
+<li><strong><a id=subtema1><a id="TERREMOTOS">TERREMOTOS</a></strong><p align="justify"><img src="terremoto.jpg" width="200" height="200" align="right">
+<p align="justify">	
+Un terremoto es el movimiento brusco de la Tierra, causado por la brusca liberaci&oacute;n de energ&iacute;a acumulada durante un largo tiempo. La corteza de la Tierra est conformada por una docena de placas de aproximadamente 70 km de grosor, cada una con diferentes caracter&iacute;sticas f&iacute;sicas y qu&iacute;micas. Estas placas ("tect&oacute;nicas") se est&aacute;n acomodando en un proceso que lleva millones de a&ntilde;os y han ido dando la forma que hoy conocemos a la superficie de nuestro planeta, originando los continentes y los relieves geogr&aacute;ficos en un proceso que est&aacute; lejos de completarse. Habitualmente estos movimientos son lentos e imperceptibles, pero en algunos casos estas placas chocan entre s&iacute; como gigantescos t&eacute;mpanos de tierra sobre un oc&eacute;ano de magma presente en las profundidades de la Tierra, impidiendo su desplazamiento. Entonces una placa comienza a desplazarse sobre o bajo la otra originando lentos cambios en la topograf&iacute;a. Pero si el desplazamiento es dificultado comienza a acumularse una energ&iacute;a de tensi&oacute;n que en alg&uacute;n momento se liberar&aacute; y una de las placas se mover&aacute; bruscamente contra la otra rompi&eacute;ndola y liber&aacute;ndose entonces una cantidad variable de energ&iacute;a que origina el Terremoto.
+
+<p align="right">
+<a href="#inicio"><button>Inicio</button></a></aling>
+</p align="right">
+
+<hr size="10"></hr>
+
+<a name="pagina2.html">
+<font size=4 color=black face="Bell MT">
+<ol type="1" start="2">
+<li><strong><a id=subtema2><a id="TSUNAMIS">TSUNAMIS</a></strong><p align="justify"><img src="tsunami.jpg" width="200" height="200" align="left">
+<p align="justify">Un tsunami es una ola o serie de olas que se producen en una masa de agua al ser empujada violentamente por una fuerza que la desplaza verticalmente. Terremotos, volcanes, derrumbes costeros o subterr&aacute;neos e incluso explosiones de gran magnitud pueden generar este fen&oacute;meno.
+El brusco movimiento del agua desde la profundidad genera un efecto de 'latigazo' hacia la superficie que es capaz de lograr olas de magnitud impensable. Teniendo en cuenta que la profundidad habitual del Oc&eacute;ano Pac&iacute;fico es de unos 4.000 metros, se pueden provocar olas que se mueven a 700 km/h. Y como las olas pierden su fuerza en relaci&oacute;n inversa a su tama&ntilde;o, al tener 4.000 metros puede viajar a miles de kil&oacute;metros de distancia sin perder mucha fuerza.
+S&oacute;lo cuando llegan a la costa comienzan a perder velocidad, al disminuir la profundidad del oc&eacute;ano. La altura de las olas, sin embargo, puede incrementarse hasta superar los 30 metros (lo habitual es una altura de seis o siete metros).
+
+<p align="right">
+<a href="#inicio"><button>Inicio</button></a></aling>
+</p align="right">
+
+
+
+
+</body>
+</html>
+
+
+

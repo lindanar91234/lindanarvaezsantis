@@ -1,0 +1,7 @@
+<html>
+<body background="Fondodepantallasi.png">
+</body>
+<marquee bgcolor="#F6D55C" behavior="alternate" direction="right">
+<b><font face="Keep on trucking" font color="#300539 " size="5">DESASTRES NATURALES</font></b>
+</marquee>
+</html>

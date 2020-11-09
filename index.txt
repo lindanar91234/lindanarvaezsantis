@@ -1,0 +1,11 @@
+<html>
+<head>
+<frameset rows="10%,80%">
+<frame name="a" src="marquesina.html">
+</marquee>
+<frameset cols="15%,85%">
+<frame name="b" src="pagina5.html">
+<frame name="c" src="pagina1.html">
+</frameset>
+</head>
+</html>

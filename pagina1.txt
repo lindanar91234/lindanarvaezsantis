@@ -1,0 +1,41 @@
+<head>
+<title>DESASTRES NATURALES</title>
+</head>
+
+<body>
+<body background="fondodepantallasi.png">
+
+<p align="center">
+<font face="Bell MT" size=5 color=black><a id=inicio>DESASTRES NATURALES</a></font></p>
+
+<p align="center"><img src="cataclismo.jpg" width="450" height="250"></p>
+
+<hr size="10"></hr>
+
+<font face="Bell MT" size=3 color=black>
+<p align="justify">Los desastres naturales son aquellos cambios violentos o repentinos en la din&aacute;mica del medio ambiente, cuyas repercusiones pueden causar p&eacute;rdidas materiales y de vidas, y que son producto de eventos ambientales en los que no se halla presente la mano del ser humano, como son los terremotos, inundaciones, tsunamis, entre otros.
+Se los cataloga como desastres dado que las condiciones ambientales se van a los extremos, superando los l&iacute;mites de lo tenido por normal. As&iacute;, un sismo puede resultar inofensivo, pero si aumenta su intensidad y se vuelve un terremoto, seguramente ocasionar&aacute; muertes, destrucci&oacute;n y cambios estructurales en la superficie terrestre.
+No debe confundirse a los desastres naturales con los desastres medioambientales, caracterizados por la presencia de una sustancia espec&iacute;fica que contamina, degrada o destruye el equilibrio qu&iacute;mico, f&iacute;sico o bi&oacute;tico de un ecosistema. Este tipo de tragedias medioambientales suelen ser consecuencia directa de actividades humanas irresponsables con el entorno.<br><br>
+Sin embargo, uno podr&iacute;a alegar que estos desastres nunca son exclusivamente naturales, ya que en cierta medida se pueden complicar o incluso deber a una mala planificaci&oacute;n (incluso a la falta total de planificaci&oacute;n), por parte de las sociedades humanas. Aun as&iacute;, fen&oacute;menos impredecibles como la erupci&oacute;n de los volcanes resultan retos importantes para incluso las m&aacute;s desarrolladas y organizadas de las sociedades.
+En general producen centenares o miles de muertos y damnificados, adem&aacute;s de los da&ntilde;os materiales que van a producir una demanda econ&oacute;mica a nivel del pa&iacute;s.
+Los desastres naturales traen consigo trastornos ambientales, pues contaminan el suelo y el agua; destruyen parte de la flora y fauna; y crean casi siempre focos de infecci&oacute;n y otros, afectando el h&aacute;bitat del hombre.
+
+</p align></ol></font>
+
+<font size=5 color=black face="Bell MT">
+<ol type="1">
+<li><strong><a href="pagina2.html">TERREMOTOS</a></strong>
+<li><strong><a href="pagina2.html">TSUNAMIS</a></strong>
+<li><strong><a href="pagina3.html">INCENDIOS FORESTALES</a></strong>
+<li><strong><a href="pagina3.html">ERUPCIONES VOLC&Aacute;NICAS</a></strong>
+<li><strong><a href="pagina4.html">FEN&Oacute;MENOS ATMOSF&Eacute;RICOS</a></strong>
+<li><strong><a href="pagina4.html">DESLIZAMIENTOS DE MASAS</a></strong>
+</ol></font>
+
+
+
+</ol></font>
+
+
+</body>
+</html>
